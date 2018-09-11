@@ -10,6 +10,8 @@ robust.
 ## TODO
 
 - [ ] Do lean tutorial
+  - This is currently linked as a submodule that will be removed
+    once I have completed it.
 - [ ] Start with imp
 - [ ] Compile imp Native
   - Start Reading list on Certified assembly

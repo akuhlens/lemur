@@ -1,0 +1,3 @@
+[submodule "lean-tutorial"]
+	path = lean-tutorial
+	url = git@github.com:akuhlens/lean-tutorial.git
